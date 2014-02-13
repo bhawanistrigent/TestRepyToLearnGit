@@ -11,5 +11,5 @@ if (is_soap_fault($response)) {
     return $response->WebServiceMethodNameWillComeHereReturn;
 }
 
-echo "end";
+echo "I am doing good.......";
 ?>
